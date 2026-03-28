@@ -1,4 +1,4 @@
-import Start from "../components/Start";
+import Start from "../components/Start.tsx";
 
 export default function Home() {
   return (

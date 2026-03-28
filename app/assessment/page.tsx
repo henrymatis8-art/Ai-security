@@ -1,4 +1,4 @@
-import Assessment from "../../components/Assessment"; // capital A
+import Assessment from "../../components/Assessment.tsx"; // capital A
 
 export default function AssessmentPage() {
   return (

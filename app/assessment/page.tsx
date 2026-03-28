@@ -1,4 +1,4 @@
-import Assessment from "@/Components/assessment";
+import Assessment from "@/components/assessment";
 
 export default function AssessmentPage() {
   return (
